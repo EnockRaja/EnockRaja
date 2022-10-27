@@ -1,0 +1,9 @@
+- 👋 Hi, This is @EnockRaja
+- 👀 I Wish to Spend my Time with my Computer... 
+- 🌱 I’m tring to do Something Special to Satisfy Myself ...
+- 📫  Just send me a message on (I'll give you Later)  ...
+
+<!---
+EnockRaja/EnockRaja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
